@@ -1,0 +1,106 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Entradas",
+      "platos": [
+        {
+          "id": 1,
+          "nombre": "Sopes",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727342609/sopes_2_kll7qs.jpg",
+          "precio": 135,
+          "descripcion": "Hechos de masa de maíz con frijol y queso fresco de la costa"
+        },
+        {
+          "id": 2,
+          "nombre": "Quesadillas de cazón",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727342608/quesadillas_f2fl5d.jpg",
+          "precio": 135,
+          "descripcion": "Tortilla de maíz frita rellena de cazón"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoria": "Especialidades",
+      "platos": [
+        {
+          "id": 3,
+          "nombre": "Huachinango",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727342609/Pescado_ono1j5.jpg",
+          "precio": 700,
+          "descripcion": "A la Talla, a la Mantequilla, al Ajo o Frito"
+        },
+        {
+          "id": 4,
+          "nombre": "Piña rellena de Mariscos",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727166329/pinapulpo_wbvzhi.jpg",
+          "precio": 390,
+          "descripcion": "Mezcla de camarones, pulpo, pescado, piña y queso sazonado con el adobo especial de la casa"
+        },
+        {
+          "id": 5,
+          "nombre": "Burrito Marinero",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727432438/_CAM3522_1_tvwgvs.jpg",
+          "precio": 340,
+          "descripcion": "Mezcla de camarones, pulpo y arrachera con queso manchego envuelto en tortilla de harina"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "categoria": "Camarones",
+      "platos": [
+        {
+          "id": 6,
+          "nombre": "Camarones Embarazados",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727342608/Embara_hmpjaz.jpg",
+          "precio": 350,
+          "descripcion": "Brochetas de camarón sazonado con el adobo especial de la casa."
+        },
+        {
+          "id": 7,
+          "nombre": "Camarones al coco",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727432704/_CAM2494_kwuoz2.jpg",
+          "precio": 350,
+          "descripcion": "Empanizados con coco rallado."
+        },
+        {
+          "id": 8,
+          "nombre": "Camarones enrebozados",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727432706/CAM03597_xkiusw.jpg",
+          "precio": 350,
+          "descripcion": "Empanizados bañados en salsa de chipotle."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "categoria": "Pulpo",
+      "platos": [
+        {
+          "id": 9,
+          "nombre": "Pulpo enamorado",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727342609/pulpoEnamorado_vwkoox.jpg",
+          "precio": 370,
+          "descripcion": "Trozos de pulpo mezclado en salsa mil islas y pico de gallo"
+        },
+        {
+          "id": 10,
+          "nombre": "Pulpo a las brasas",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727433078/_CAM2603_vawu8f.jpg",
+          "precio": 370,
+          "descripcion": "Sazonado con el adobo especial de la casa"
+        },
+        {
+          "id": 11,
+          "nombre": "Pulpo a lo macho",
+          "imagen": "https://res.cloudinary.com/di4q8lw2e/image/upload/v1727433079/CAM03694_sw1h3j.jpg",
+          "precio": 370,
+          "descripcion": "Sazonado con salsa macha"
+        }
+      ]
+    }
+  ]
+}
